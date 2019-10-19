@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RoomBook</string>
+    <string name="continue_to_login">Continue to login</string>
+    <string name="zealandpicture">zealandPicture</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_e_mail_adress">Enter e-mail adress</string>
+    <string name="register">Register</string>
+
+    <string name="login_loginActivity">Login</string>
+
+
+</resources>
